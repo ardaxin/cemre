@@ -1,5 +1,6 @@
+![Cemre Logo](assets/cemre-logo.png)
+
 # Cemre Data Distribution System
-<pre> ``` _____ / ____| | | ___ _ __ ___ _ __ ___ ___ _ __ | | / _ \| '_ ` _ \| '_ ` _ \ / _ \| '_ \ | |___| (_) | | | | | | | | | | | (_) | | | | \_____\___/|_| |_| |_|_| |_| |_|\___/|_| |_| Cemre Data Distribution System ``` </pre>
 
 This is a simple data distribution system for testing file transfer between two folders.
 
@@ -35,6 +36,8 @@ This is a simple data distribution system for testing file transfer between two 
 
 ```
 Cemre/
+├── assets/
+│   └── cemre-logo.png
 ├── folder1/
 ├── folder2/
 ├── src/
@@ -50,5 +53,3 @@ Cemre/
 
 - The folders and files are created in the directory where you run the program.
 - You can modify the file and folder names in `src/main.ts` as needed.
-
----
